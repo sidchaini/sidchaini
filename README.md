@@ -1,7 +1,4 @@
 ### Hey there!
-I am Siddharth Chaini, and I am a 5th year BS-MS student at IISER Bhopal, majoring in Physics.
-
-
 
 <!--
 **siddharthchaini/siddharthchaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +25,6 @@ I love to combine my passion for computer programming and data science with my b
 
 In my free time, I watch and play football, code for fun (automate the boring stuff!) and play role-playing video games!
 
-Check my webpage to know more about me: https://siddharthchaini.github.io/
+Check my webpage to know more about me: [siddharthchaini.github.io](https://siddharthchaini.github.io/ "Siddharth's Webpage").
+
+See you there!
