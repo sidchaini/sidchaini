@@ -28,3 +28,5 @@ In my free time, I watch and play football, code for fun (automate the boring st
 Check my webpage to know more about me: [siddharthchaini.github.io](https://siddharthchaini.github.io/ "Siddharth's Webpage").
 
 See you there!
+
+(Or you can stay here and check my code; I'll be equally happy 😛)
