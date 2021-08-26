@@ -29,4 +29,4 @@ Check my webpage to know more about me: [siddharthchaini.github.io](https://sidd
 
 See you there!
 
-(Or you can stay here and check my code; I'll be equally happy :p)
+(Or you can stay here and check my code; I'm not complaining 😛)
