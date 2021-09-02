@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 I am Siddharth Chaini, a final year Master's student at IISER Bhopal, majoring in Physics.
 I love to combine my passion for computer programming and data science with my background in physics and astronomy. I am chiefly interested in the following topics:
 
+- Time-Domain Astronomy
+- Transients
 - Astroinformatics
-- Time-Domain Astrophysics
 - Data Science in Astronomy
-- Supernova Cosmology
+<!-- - Supernova Cosmology -->
 
 In my free time, I watch and play football, code for fun (automate the boring stuff!) and play role-playing video games!
 
