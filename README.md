@@ -25,4 +25,6 @@ I love to combine my passion for computer programming and data science with my b
 
 In my free time, I watch and play football, code for fun (automate the boring stuff!) and play role-playing video games.
 
-Feel free to explore my repos, and also check out my webpage to know more about me: [siddharthchaini.github.io](https://siddharthchaini.github.io/?utm_source=github "Siddharth's Webpage").
+Feel free to explore my repos, and also check out my personal website to know more about me:
+
+[![MIT](https://img.shields.io/badge/-My%20Personal%20Website-blue)](https://siddharthchaini.github.io/?utm_source=github) 
