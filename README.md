@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Siddharth Chaini, a final year Master's student at IISER Bhopal, majoring in Physics.
+I am Siddharth Chaini, a PhD student at the Department of Physics and Astronomy, University of Delaware. My pronouns are he/him.
 I love to combine my passion for computer programming and data science with my background in physics and astronomy. I am chiefly interested in the following topics:
 
 - Time-Domain Astronomy
-- Astroinformatics
 - Transients & Variable Stars
 - Data Science in Astronomy
+- Astroinformatics
 
-In my free time, I watch and play football, code for fun (automate the boring stuff!) and play role-playing video games.
+In my free time, I watch and play ~~football~~ soccer, code for fun (automate the boring stuff!) and play role-playing video games.
 
 Feel free to explore my repos, and also check out my personal website to know more about me:
 
