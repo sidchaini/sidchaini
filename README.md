@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I am Siddharth Chaini, a PhD student at the Department of Physics and Astronomy, University of Delaware. My pronouns are he/him.
+
 I love to combine my passion for computer programming and data science with my background in physics and astronomy. I am chiefly interested in the following topics:
 
 - Time-Domain Astronomy
