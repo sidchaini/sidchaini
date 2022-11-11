@@ -1,7 +1,7 @@
 ### Hey there!
 
 <!--
-**siddharthchaini/siddharthchaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sidchaini/sidchaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -28,4 +28,4 @@ In my free time, I watch and play ~~football~~ soccer, code for fun (automate th
 
 Feel free to explore my repos, and also check out my personal website to know more about me:
 
-[![MIT](https://img.shields.io/badge/-My%20Personal%20Website-blue)](https://siddharthchaini.github.io/?utm_source=github) 
+[![MIT](https://img.shields.io/badge/-My%20Personal%20Website-blue)](https://sidchaini.github.io/?utm_source=github) 
