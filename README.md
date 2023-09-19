@@ -19,10 +19,8 @@ I am Siddharth Chaini, a PhD student at the Department of Physics and Astronomy,
 
 I love to combine my passion for computer programming and data science with my background in physics and astronomy. I am chiefly interested in the following topics:
 
-- Time-Domain Astronomy
-- Transients & Variable Stars
-- Data Science in Astronomy
-- Astroinformatics
+- Transients and Time-Domain Astronomy
+- Astrostatistics and Astroinformatics
 
 In my free time, I watch and play ~~football~~ soccer, code for fun (automate the boring stuff!) and play role-playing video games.
 
