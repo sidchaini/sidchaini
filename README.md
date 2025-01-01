@@ -22,7 +22,7 @@ I love to combine my passion for computer programming and data science with my b
 - Transients and Time-Domain Astronomy
 - Astrostatistics and Astroinformatics
 
-In my free time, I watch and play ~~football~~ soccer, code for fun (automate the boring stuff!) and play role-playing video games.
+In my free time, I watch and play football (soccer), code for fun (automate the boring stuff!) and play role-playing video games.
 
 Feel free to explore my repos, and also check out my personal website to know more about me:
 
